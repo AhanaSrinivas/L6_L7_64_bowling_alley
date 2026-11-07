@@ -1,3 +1,14 @@
+**Name:** Ahana Srinivas Sivaram  
+**SRN:** PES1UG24CS910  
+**Section:** H
+
+## Lab Repositories
+
+- **Labs 1–4 — Pet Adoption & Shelter Management System / Lab 4 VibeCoding:** [Repository](https://github.com/AhanaSrinivas/MyProject_Pet-Adoption-Shelter-Management-System)
+- **Lab 5 — Public Transit Fare Calculator:** [Repository](https://github.com/AhanaSrinivas/L5_64_public-transit-fare-calculator)
+- **Labs 6–7 — Bowling Alley:** [Repository](https://github.com/AhanaSrinivas/L6_L7_64_bowling_alley)
+
+---
 # Software Engineering Labs 6 and 7
 
 **Name:** Ahana Srinivas Sivaram  
